@@ -2,5 +2,5 @@ colorama
 requests
 bs4
 pprint
-prompt_toolkit==1.0.15
+prompt_toolkit==1.0.14
 selectmenu
