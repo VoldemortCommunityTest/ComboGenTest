@@ -1,0 +1,6 @@
+colorama
+requests
+bs4
+pprint
+prompt_toolkit==1.0.15
+selectmenu
