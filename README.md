@@ -58,7 +58,9 @@
 * Make Sure you move the Keywords File to Internal Storage/VoldemortCommunity/ComboGen/Keywords
 * After Execution, You can Collect the Combo List from Internal Storage/VoldemortCommunity/ComboGen/ComboLists
 
-
+## Donate
+<div id="coinwidget" data-icon="true" data-type="primary" data-wallet="1Gc317G5YdGm4Mx27RXpaa2vToFQR8J1bt" />
+<script type="text/javascript" src="https://cdn.jsdelivr.net/gh/ivandiazwm/coinwidget@0.1.1/builds/full.js" charset="utf-8"></script>
 ## To-Do
 
 * Suggestions? [@VoldemortCommunity](https://t.me/VoldemortCommunity).
