@@ -1,4 +1,5 @@
-![PyPI - Python Version](https://img.shields.io/pypi/pyversions/3.svg?label=Python&logo=python&logoColor=white)
+<a href="https://www.python.org/download/releases/3.0/"><IMG src="https://img.shields.io/pypi/pyversions/3.svg?label=Python&logo=python"></a>
+<a href="https://t.me/VoldemortCommunity"><img src="https://img.shields.io/badge/Telegram-Group-blue.svg?logo=Telegram"></a>
 
 # ComboGen
 - ~~Combo List Generator v1.0 (Uploaded on 21/04/2019 1700 IST)~~
